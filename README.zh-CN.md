@@ -12,7 +12,7 @@
 <br>
 
 <p align='center'>
-<a href="https://github.com/yangjiakai/jk-vuetify3-lux-admin/blob/main/README.md">English</a> | <b>简体中文</b>| <a href="https://github.com/yangjiakai/jk-vuetify3-lux-admin/blob/main/README.jp.md">日本語</a>
+<a href="https://github.com/yangjiakai/vuetify3-firebase/blob/main/README.md">English</a> | <b>简体中文</b>| <a href="https://github.com/yangjiakai/vuetify3-firebase/blob/main/README.jp.md">日本語</a>
 </p>
 
 ## 序文
@@ -113,9 +113,9 @@ Vuetify3 结合 Firebase 授权，验证，数据库等服务
 ## 现在可以试试!
 
 ```
-git clone https://github.com/yangjiakai/jk-vuetify3-lux-admin.git
+git clone https://github.com/yangjiakai/vuetify3-firebase.git
 
-cd jk-vuetify3-lux-admin
+cd vuetify3-firebase
 
 npm install
 
